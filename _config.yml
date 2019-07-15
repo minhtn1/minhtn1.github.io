@@ -163,6 +163,8 @@ paginate: 5
 kramdown:
   input: GFM
 
+plugins :
+  - jekyll-seo-tag
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -
