@@ -21,6 +21,7 @@ description: kick vào đi đợi chi nữa bạn ơi :D
 # List of links in the navigation bar
 navbar-links:
   Aboutme: "aboutme"
+  Danh mục:"/Categories"
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
 
