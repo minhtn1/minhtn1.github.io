@@ -5,7 +5,18 @@ subtitle: Why you'd want to go on a date with me
 ---
 
 
+{% include career-profile.html %}
 
-### my history
-hmmmmmmmm....
+{% unless site.data.data.sidebar.education %}
+  {% include education.html %}
+{% endunless %}
+
+{% include experiences.html %}
+
+{% include projects.html %}
+
+{% include publications.html %}
+
+{% include skills.html %}
+
 
