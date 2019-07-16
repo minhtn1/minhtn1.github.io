@@ -39,7 +39,7 @@ avatar: "/img/avt.png"
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+page-col: "#F8F8FF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
@@ -49,9 +49,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/img/gray.png"
-footer-img: "/img/gray.png"
-page-img  : "/img/gray.png"
+#navbar-img: "/img/gray.png"
+#footer-img: "/img/gray.png"
+#page-img  : "/img/gray.png"
 
 # --- Footer options --- #
 
